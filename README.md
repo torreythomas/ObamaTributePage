@@ -1,6 +1,6 @@
 # ObamaTributePage
 
-The Barack Obama Tribute page was created as my first project in the [freeCodeCamp](freecodecamp.org) curriculum. 
+The Barack Obama Tribute page was created as my first project in the freecodecamp.org curriculum. 
 
 ## Technologies Used
 
