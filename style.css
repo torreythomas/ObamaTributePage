@@ -1,0 +1,48 @@
+header {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(179, 67, 67);
+}
+
+#img-div {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 50px;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    align-self: center;
+    padding: 10px;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+
+li {
+    line-height: 2.5em;
+}
